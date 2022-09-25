@@ -1,0 +1,31 @@
+{
+	"products" : [
+		{
+			"name" : "Bikini 01",
+			"price" : "100.00",
+			"options" : [
+				{ "Size" : "Pequeno,Médio,Grande" }
+			],
+			"image" : "https://upload.wikimedia.org/wikipedia/commons/8/86/01-BIKINI-1.jpg",
+			"description" : "This is a very awesome grey T-shirt"
+		},
+		{
+			"name" : "Bikini 02",
+			"price" : "80.00",
+			"options" : [
+				{ "Size" : "Pequeno,Médio,Grande" }
+			],
+			"image" : "https://upload.wikimedia.org/wikipedia/commons/c/c9/02-BIKINI-1.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Bikini 03",
+			"price" : "90.00",
+			"options" : [
+				{ "Size" : "Pequeno,Médio,Grande" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "This is another fun grey T-shirt"
+		}
+	]
+}
