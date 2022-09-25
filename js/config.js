@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "Malu Modas",
+		brand : "O_crochedasol",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
